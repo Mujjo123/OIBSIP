@@ -12,7 +12,7 @@ public class Number_Guessing{
 			guess=Integer.parseInt(sc.nextLine());
 			if(guess==key){
 				flag=true;
-				System.out.println("you won the game");
+				System.out.println("you won the game");4
 				System.out.println("your score is "+k);
 				return;
 			}
